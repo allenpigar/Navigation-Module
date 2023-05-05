@@ -38,7 +38,7 @@
     - name: "external_url"
       label: "External Url"
       description: null
-      datatype: "external_link"
+      datatype: "link"
       sort: 1
       required: true
       relationship: null
