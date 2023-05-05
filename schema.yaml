@@ -42,3 +42,105 @@
       sort: 1
       required: true
       relationship: null
+- description: null
+  label: "Menu Footer"
+  name: "menu_footer"
+  sort: 1
+  listed: true
+  hasRoute: false
+  showAsTable: false
+  parent: null
+  fields:
+    - name: "name"
+      label: "Name"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "title"
+      label: "Title"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "weight"
+      label: "Weight"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "identifier"
+      label: "Identifier"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "internal_url"
+      label: "Internal Url"
+      description: null
+      datatype: "internal_link"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "external_url"
+      label: "External Url"
+      description: null
+      datatype: "link"
+      sort: 1
+      required: true
+      relationship: null
+- description: null
+  label: "Socials"
+  name: "socials"
+  sort: 1
+  listed: true
+  hasRoute: false
+  showAsTable: false
+  parent: null
+  fields:
+    - name: "name"
+      label: "Name"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "title"
+      label: "Title"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "weight"
+      label: "Weight"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "identifier"
+      label: "Identifier"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "internal_url"
+      label: "Internal Url"
+      description: null
+      datatype: "internal_link"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "external_url"
+      label: "External Url"
+      description: null
+      datatype: "link"
+      sort: 1
+      required: true
+      relationship: null

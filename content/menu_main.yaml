@@ -18,7 +18,7 @@
     internal_url: "contact"
     external_url: null
     name: "Contact"
-    weight: 14
+    weight: "14"
     identifier: "contact"
 - id: "0"
   web:
@@ -40,7 +40,7 @@
     internal_url: "faq"
     external_url: null
     name: "FAQ"
-    weight: 8
+    weight: "8"
     identifier: "faq"
 - id: "0"
   web:
@@ -62,7 +62,7 @@
     internal_url: "claims"
     external_url: null
     name: "Claims"
-    weight: 6
+    weight: "6"
     identifier: "claims"
 - id: "0"
   web:

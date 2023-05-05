@@ -1,0 +1,115 @@
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    internal_url: null
+    external_url: "https://www.youtube.com/c/KinInsurance"
+    name: "YouTube"
+    title: "YouTube"
+    weight: "4"
+    identifier: "youtube"
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    internal_url: null
+    external_url: "https://www.linkedin.com/company/kin-insurance"
+    name: "LinkedIn"
+    title: "LinkedIn"
+    weight: "4"
+    identifier: "linkedin"
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    internal_url: null
+    external_url: "https://www.instagram.com/kin/"
+    name: "Instagram"
+    title: "Instagram"
+    weight: "3"
+    identifier: "instagram"
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    internal_url: null
+    external_url: "https://www.facebook.com/kinsured"
+    name: "Facebook"
+    title: "Facebook"
+    weight: "2"
+    identifier: "facebook"
+- id: "0"
+  web:
+    metaDescription: ""
+    metaTitle: ""
+    metaLinkText: ""
+    metaKeywords: null
+    pathPart: null
+    path: null
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+    parent: "/"
+  meta:
+    sort: null
+    listed: true
+  data:
+    internal_url: null
+    external_url: "https://twitter.com/kin"
+    name: "Twitter"
+    title: "Twitter"
+    weight: "2"
+    identifier: "twitter"
