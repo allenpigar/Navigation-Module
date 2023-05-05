@@ -1,0 +1,44 @@
+- description: null
+  label: "Menu Main"
+  name: "menu_main"
+  sort: 1
+  listed: true
+  hasRoute: false
+  showAsTable: false
+  parent: null
+  fields:
+    - name: "Name"
+      label: "name"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "Weight"
+      label: "weight"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "identifier"
+      label: "Identifier"
+      description: null
+      datatype: "text"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "Internal Url"
+      label: "internal_url"
+      description: null
+      datatype: "internal_link"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "External Url"
+      label: "external_url"
+      description: null
+      datatype: "external_link"
+      sort: 1
+      required: true
+      relationship: null
